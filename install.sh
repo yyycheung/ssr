@@ -7,3 +7,4 @@ cd shadowsocksr/
 wget https://github.com/cndaqiang/shadowsocksr/archive/manyuser.zip
 unzip manyuser.zip
 cd shadowsocksr-manyuser/
+vim shadowsocksr/shadowsocksr-manyuser/config.json
