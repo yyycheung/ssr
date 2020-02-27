@@ -5,4 +5,4 @@ ubuntu:
 
 start:
 
-`python3 shadowsocksr/shadowsocksr-manyuser/shadowsocks/server.py -c config.json -d start`
+`python3 shadowsocksr/shadowsocksr-manyuser/shadowsocks/server.py -c shadowsocksr/shadowsocksr-manyuser/config.json -d start`
